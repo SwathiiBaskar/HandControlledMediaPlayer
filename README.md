@@ -27,12 +27,12 @@ Gestures are recognized using **MediaPipe Hand Landmarks** and mapped to media k
 
 ## Hand Landmark Reference
 
-0: Wrist
-1–4: Thumb
-5–8: Index Finger
-9–12: Middle Finger
-13–16: Ring Finger
-17–20: Pinky
+0: Wrist<br>
+1–4: Thumb<br>
+5–8: Index Finger<br>
+9–12: Middle Finger<br>
+13–16: Ring Finger<br>
+17–20: Pinky<br>
 
 ---
 
